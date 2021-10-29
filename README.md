@@ -11,7 +11,11 @@ A simple project as a way to study ReactJs.
 - [x] Create README
 - [ ] Install dependencies
     - [x] react-router-dom
-- [ ] --
+    - [x] axios
+    - [x] json-server
+- [x] Create routes
+- [x] Create not found
+- [x] Navigation by id
 
 
 ## React version (17.0.2)

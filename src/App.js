@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import Sobre from './pages/About';
 import NotFound from './pages/NotFound';
 import Header from "./components/header";
+import Post from "./pages/Post";
 
 function App() {
   return (
@@ -17,6 +18,9 @@ function App() {
               </Route>
               <Route path="/sobre">
                 <Sobre/>
+              </Route>
+              <Route path="/posts/:id">
+                <Post/>
               </Route>
               <Route path="*">
                 <NotFound/>
