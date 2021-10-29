@@ -7,10 +7,10 @@ A simple project as a way to study ReactJs.
 
 ## Features
 
-- [x] Create project alura_form
+- [x] Create project alura-petshop
 - [x] Create README
 - [ ] Install dependencies
-    - [ ] --
+    - [x] react-router-dom
 - [ ] --
 
 
