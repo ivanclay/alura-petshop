@@ -19,7 +19,7 @@ A simple project as a way to study ReactJs.
 - [x] Create category
 - [x] Create category filter
 - [x] Create subcategory
-- [ ] Create subcategory filter
+- [x] Create subcategory filter
 
 
 ## React version (17.0.2)
