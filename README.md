@@ -1,9 +1,9 @@
-# Alura Petshop
+# Alura Petshop (Blog filter)
 
 A simple project as a way to study ReactJs.
 
 ## Example
-![](demo/underconstruction.gif)
+![](demo/alura_petshop_blog.gif)
 
 ## Features
 
